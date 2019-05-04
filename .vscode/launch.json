@@ -8,7 +8,7 @@
 			"type": "node",
 			"request": "launch",
 			"name": "Launch Program",
-			"program": "${workspaceFolder}\\shortenYourSpeech.js"
+			"program": "${workspaceFolder}\\distributeEvenly.js"
 		}
 	]
 }
